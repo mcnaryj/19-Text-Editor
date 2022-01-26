@@ -15,7 +15,12 @@ butInstall.addEventListener('click', async () => {
     if (!promptEvent) {
         return;
     };
+    // showing the prompt
     promptEvent.prompt();
+    // making the install button hidden once the app has been installed
+    butInstall.classList.toggle('hidden', true);
+
+
 });
 
 // TODO: Add an event handler for the `appinstalled` event
