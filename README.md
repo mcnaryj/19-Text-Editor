@@ -1,11 +1,11 @@
 # 19-Text-Editor
 
 
-## E-Commerce Back-End
+## Text Editor
 
 ## Description
 
-The purpose of this project was to create the back-end of an social networking site that helps the user get, post, update and delete users, thoughts and reactions.
+The purpose of this project was to create an application that will allow the user to access a web page where they can download the JATE text editor.
 
 
 ## License
@@ -61,6 +61,7 @@ This application is intended for users who want to have a place where they can g
 ## Demonstration
 
 The following movie shows the functionality of the app:
+
 
 The user is able to download and install JATE, and then use it on their computer.
 
