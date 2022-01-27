@@ -43,7 +43,7 @@ SOFTWARE.
 
 ## Installation
 
-Download the files contained in the 19-Text-Editor repository, either through Github or by making a clone of the repository and downloading it locally. Once the file is downloaded, open it with VS Code or a similar code editor with node js installed. From there, install the node package modules via npm i. Then, run npm run start to start the application. After that, go to localhost:3000 to download the text editor, or the heroku link that is shared.
+Download the files contained in the 19-Text-Editor repository, either through Github or by making a clone of the repository and downloading it locally. Once the file is downloaded, open it with VS Code or a similar code editor with node js installed. From there, install the node package modules via npm i. Then, run npm run start to start the application. After that, go to localhost:3000 to download the text editor, or the heroku link that can be found in the [Demonstration](#demonstration) section.
 
 ## Usage
 
@@ -60,8 +60,8 @@ This application is intended for users who want to have a place where they can g
 
 ## Demonstration
 
-The following movie shows the functionality of the app:
-
+The following url shows the functionality of the app:
+https://text-editor-mcnary.herokuapp.com/
 
 The user is able to download and install JATE, and then use it on their computer.
 
