@@ -1,6 +1,5 @@
 # 19-Text-Editor
 
-
 ## Text Editor
 
 ## Description
@@ -60,14 +59,14 @@ This application is intended for users who want to have a place where they can g
 
 ## Demonstration
 
-The following url shows the functionality of the app:
+The app has been deployed on Heroku, and can be accessed via the following url:
 https://text-editor-mcnary.herokuapp.com/
 
 The user is able to download and install JATE, and then use it on their computer.
 
 ## Notes
 
-The main thing I found with this one is to check the syntax and log errors, as many of the errors I was experiencing were due to a path being written incorrectly, or a missing parentheses. It's always those little things that prevent the code from working, which is frustrating but also cathartic when they are resolved.
+The main thing I found with this one is to check the syntax and log errors, as many of the errors I was experiencing were due to a path being written incorrectly, or missing parentheses. In this case, it was needing to change the file destination from 'assets' to 'src'. It's always those little things that prevent the code from working, which is frustrating but also cathartic when they are resolved.
 
 ## Questions
 Please check out my [github repo](https://github.com/mcnaryj/19-Text-Editor) for more questions on the methodology and what have you.
