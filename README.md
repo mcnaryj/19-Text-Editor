@@ -60,8 +60,8 @@ This application is intended for users who want to have a place where they can g
 
 ## Demonstration
 
-The following movie shows the functionality of the app:
-
+The following url shows the functionality of the app:
+https://text-editor-mcnary.herokuapp.com/
 
 The user is able to download and install JATE, and then use it on their computer.
 
