@@ -42,7 +42,7 @@ SOFTWARE.
 
 ## Installation
 
-Download the files contained in the 19-Text-Editor repository, either through Github or by making a clone of the repository and downloading it locally. Once the file is downloaded, open it with VS Code or a similar code editor with node js installed. From there, install the node package modules via npm i. Then, run npm run start to start the application. After that, go to localhost:3000 to download the text editor, or the heroku link that can be found in the [Demonstration](#demonstration) section.
+Download the files contained in the [Text-Editor](https://github.com/mcnaryj/19-Text-Editor) repository, either through Github or by making a clone of the repository and downloading it locally. Once the file is downloaded, open it with VS Code or a similar code editor with node js installed. From there, install the node package modules via npm i. Then, run npm run start to start the application. After that, go to localhost:3000 to download the text editor, or the heroku link that can be found in the [Demonstration](#demonstration) section.
 
 ## Usage
 
